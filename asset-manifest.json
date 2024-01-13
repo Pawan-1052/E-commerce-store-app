@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.571138e6.css",
+    "main.js": "/static/js/main.00c6accc.js",
+    "static/media/blog3-Img.jpg": "/static/media/blog3-Img.4049ff1dab9a13b9bd8c.jpg",
+    "static/media/Frame1-1.png": "/static/media/Frame1-1.c2dfaefa2ec115e17495.png",
+    "static/media/simpleImg.jpg": "/static/media/simpleImg.afb2571022e4d5a42915.jpg",
+    "static/media/SofaChair.png": "/static/media/SofaChair.27051251bb7b8f5a8bee.png",
+    "static/media/Frame 3-2.png": "/static/media/Frame 3-2.6dfd17222d265dfb1be8.png",
+    "static/media/blog2-Img.jpg": "/static/media/blog2-Img.668e0e0cc967e459a412.jpg",
+    "static/media/blog1-Img.jpg": "/static/media/blog1-Img.b3b371fe0b618143fe57.jpg",
+    "static/media/instagram.svg": "/static/media/instagram.4d969dd141d389ed7a2fe7584b56d681.svg",
+    "index.html": "/index.html",
+    "static/media/linkedin.svg": "/static/media/linkedin.2eda7bddaacee15c44494bb63ca94165.svg",
+    "static/media/twitter.svg": "/static/media/twitter.db226d55c343637e1371fc247b144b51.svg",
+    "static/media/facebook.svg": "/static/media/facebook.4d4460260f64103d8da4a91d8e856d36.svg",
+    "main.571138e6.css.map": "/static/css/main.571138e6.css.map",
+    "main.00c6accc.js.map": "/static/js/main.00c6accc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.571138e6.css",
+    "static/js/main.00c6accc.js"
+  ]
+}
